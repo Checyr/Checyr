@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi
+- 🌱 I’m currently learning Python and Kotlin/Java
+- 👯 I’m looking to collaborate on projects open source
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about anything you want (with respect)
+- 📫 How to reach me: gabrielly.checyr@gmail.com
+- 😄 Pronouns: She/Her
 
-<!--
-**Checyr/Checyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Checyr&show_icons=true&theme=midnight-purple"/>
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Checyr&layout=compact&theme=midnight-purple"/>
 
-Here are some ideas to get you started:
+<hr size = 7>
+<br/> <br/>
+<hr width = 0% "style="background-color: transparent"">
+<br/> <br/>
+<hr width = 100% align = right noshade>
+   
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/Checyr/Checyr/blob/output/github-contribution-grid-snake.svg)
