@@ -7,11 +7,8 @@
 - 😄 Pronouns: She/Her
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Checyr&show_icons=true&theme=midnight-purple"/>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Checyr&layout=compact&theme=midnight-purple"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Checyr&layout=compact&theme=midnight-purple"/>
 
-<hr size = 7>
-<br/> <br/>
-<hr width = 0% "style="background-color: transparent"">
 <br/> <br/>
 <hr width = 100% align = right noshade>
    
