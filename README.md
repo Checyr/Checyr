@@ -1,7 +1,7 @@
 ## Hi
 - 🌱 I’m currently learning Python and Kotlin/Java
 - 👯 I’m looking to collaborate on projects open source
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with Python and Kotlin or Java
 - 💬 Ask me about anything you want (with respect)
 - 📫 How to reach me: gabrielly.checyr@gmail.com
 - 😄 Pronouns: She/Her
