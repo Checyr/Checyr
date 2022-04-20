@@ -6,10 +6,6 @@
 - 📫 How to reach me: gabrielly.checyr@gmail.com
 - 😄 Pronouns: She/Her
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Checyr&show_icons=true&theme=midnight-purple"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Checyr&layout=compact&theme=midnight-purple"/>
-
-<br/> <br/>
 <hr width = 100% align = right noshade>
    
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
