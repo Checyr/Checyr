@@ -11,11 +11,6 @@ I love facing challenges and finding creative solutions to problems. I believe t
 If you want to know more about me or my work, feel free to get in touch. I'm always open to new opportunities and challenges!
 <br>
 
-## 🧰 Languages and Tools
-<a href="https://skillicons.dev">
- <img src="https://skills.thijs.gg/icons?i=html,css,js,cs,kotlin,mysql,php,py,unity,java,bots,androidstudio" />
-</a>
-
 # Sobre mim (pt-br)
 
 Olá, meu nome é Gabrielly Matos, mas pode me chamar de Gaby. Sou uma desenvolvedora fullstack apaixonada por tecnologia desde os 6 anos de idade.
